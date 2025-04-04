@@ -40,7 +40,7 @@ A Google Docs add-on that allows you to export chapters from Google Docs to mark
 4. Create a new Apps Script project by running the following command:
 
     ```bash
-    clasp create --title "Book Exports" --type docs --rootDir ./src
+   clasp create --title "Book Exports" --type standalone --rootDir ./src
     ```
 
 5. (Alternatively) You can clone the project by running the following command:
