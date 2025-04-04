@@ -1,0 +1,13 @@
+# IDE files
+.idea/
+*.iml
+
+# Project files
+package.json
+.gitignore
+README.md
+scripts/
+keys/
+
+# Dependencies
+node_modules/

@@ -1,0 +1,13 @@
+# Environments
+.env
+
+# Project files
+node_modules
+src/globals/env.gs
+keys/*.json
+.clasp.json
+
+# Misc
+.idea
+*.iml
+.DS_Store
